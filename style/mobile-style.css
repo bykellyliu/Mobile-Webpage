@@ -1,0 +1,130 @@
+body{
+background-position: 100%;
+background-color: #EE0000;
+text-align: center;
+font-family: Arial, Sans serif;
+color:#FFFFFF;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+#content{
+text-align:left;
+color: #000000;
+}
+
+.form{
+text-align: center;
+width:350px; padding:10px;
+}
+
+.label{
+padding:10px;
+}
+
+#description{ 
+text-align: left;
+width: 70%;
+margin: auto;
+min-width:340px;
+} 
+
+
+/** LINK COLORS **/
+a:link {
+color: #000000;
+text-decoration: none;
+}
+
+a:visited {
+color: #000000;
+text-decoration: none;
+}
+
+a:hover {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a:active {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+/**FOOTER **/
+#footer{
+font-family: Arial, Sans serif;
+color:#FFAD5C;
+width: 80%;
+margin: auto;
+min-width:340px;
+}
+
+/* sign pictures */
+#pic{
+border:2px solid #000000;
+display: block;
+margin-left: auto;
+margin-right: auto;
+} 
+
+.menuPic{
+border:1px solid #000000;
+}
+
+header h1{
+text-align: center;
+color:#FFAD5C;
+}
+
+header h2{
+text-align: center;
+color:#FFAD5C;
+padding-right: 20px;
+font-size: .80em; 
+font-style: italic;
+text-align: right; 
+}
+
+h2{
+text-align: center;
+color: #FFAD5C;
+}
+
+h3{
+text-align: center;
+color: #FFAD5C;
+}
+
+
+#menu{
+margin: auto;
+}
+
+nav { 
+letter-spacing:0.1em;
+font-weight: bold;
+vertical-align: middle;
+} 
+
+nav ul {
+list-style-type: none; 
+margin: 0;
+padding: 0;
+}
+
+nav a {
+text-decoration: none; 
+display: block;
+padding: 10px;    
+background-color: #EE0000;     
+border-bottom: 1px solid #ffffff; 
+}
+
+nav li{
+display: inline;
+}
+
+
+ 

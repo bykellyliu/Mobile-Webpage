@@ -1,0 +1,84 @@
+body{
+background-image: url('images/background2.png');
+background-position: 100%;
+background-color: #FF3333;
+text-align: justify;
+font-family: Arial, Sans serif;
+color: #FFFFFF;
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+}
+
+#description{
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+}
+
+
+/** LINK COLORS **/
+a:link {
+color: #000000;
+text-decoration: none;
+}
+
+a:visited {
+color: #000000;
+text-decoration: none;
+}
+
+a:hover {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+a:active {
+color: #FFFFFF;
+text-decoration: none;
+}
+
+footer{
+font-family: Arial;
+color:#FFAD5C;
+}
+
+#pic{
+border:2px solid #000000;
+display: block;
+margin-left: auto;
+margin-right: auto;
+} 
+
+#menuPic{
+border:1px solid #000000;
+}
+
+h2{
+text-align: center;
+color:#FFAD5C;
+}
+
+h3{
+text-align: center;
+color:#FFAD5C;
+}
+
+#content{
+float:left;
+position:relative;
+left:50%;
+}
+
+#menu{
+margin:auto;
+}
+
+#signlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+
+ 
